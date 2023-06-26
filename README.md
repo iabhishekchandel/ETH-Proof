@@ -42,3 +42,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 This README provides a concise and clear overview of the Ember Token Solidity Contract, its purpose, and instructions on how to interact with it. It serves as a valuable resource for developers seeking to understand and utilize the Ember token within their Ethereum projects.
 
 I hope this README meets your requirements and effectively conveys the necessary information about your Ember Token Contract. If you have any further questions or need additional assistance, please let me know.
+
+Thanks & Regards
+
+
+Abhishek Chnadel
